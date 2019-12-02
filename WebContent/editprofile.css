@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+
+.edit{
+	margin-top:50px;
+	margin-left:150px;
+	/* border:2px solid black; */
+	width:70%;
+}
+#worksat,
+#address,
+#studentat{
+	    margin-left:150px;
+		width:50%;	
+	
+}
+.works,
+.address,
+.student{
+	    margin-left:150px;
+		width:50%;	
+		color:blue;
+}
+.update{
+	margin-left:200px;
+}
+
